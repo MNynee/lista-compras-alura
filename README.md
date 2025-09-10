@@ -19,6 +19,6 @@ As técnicas e tecnologias utilizadas pra isso são:
 
 ## 💬 Comentários
 
-Após começar a estudar JavaScript, este foi o primeiro projeto que realizei de maneira mais autônoma: tentando fazer sozinho cada passo antes de aprender qual o método escolhido pela instrutora. A adição dos botões de 'editar' e 'excluir' não foram abordados de forma obrigatória nas atividades, optei por adicioná-los por mim mesmo ao fim do curso. O foco era aprndizado e prática de JavaScript, logo não fui eu quem criou as partes em HTML e CSS. Apesar de, sim, ter editado alguns pontos, sobretudo no CSS, para que ficasse de uma forma que me agradasse.
+Após começar a estudar JavaScript, este foi o primeiro projeto que realizei de maneira mais autônoma: tentando fazer sozinho cada passo antes de aprender qual o método escolhido pela instrutora. A adição dos botões de 'editar' e 'excluir' não foram abordados de forma obrigatória nas atividades, optei por adicioná-los por mim mesmo ao fim do curso. O foco era aprendizado e prática de JavaScript, logo não fui eu quem criou as partes em HTML e CSS. Apesar de, sim, ter editado alguns pontos, sobretudo no CSS, para que ficasse de uma forma que me agradasse.
 
 
